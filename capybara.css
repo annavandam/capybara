@@ -9,6 +9,15 @@ html, body {
   background-color: white;
 }
 
+a {
+color: #6f717d;
+font-weight:bold;
+}
+a:hover {
+color: #6f717d;
+font-weight:bold;
+}
+
 .nav-header {
   background-image: url(https://thumbs.gfycat.com/SociableEmbellishedBallpython-size_restricted.gif);
   background-repeat: no-repeat;
