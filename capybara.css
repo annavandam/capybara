@@ -1,5 +1,5 @@
 html, body {
-  font-family:'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-color: #f3f3f3;
   padding: 0;
   margin: 0;
@@ -54,9 +54,14 @@ html, body {
   }
 
 h1 {
+  
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
+}
+
+hr {
+	    border: 2px solid grey;
 }
 
 h2 {
