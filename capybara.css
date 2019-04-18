@@ -10,7 +10,8 @@ html, body {
 }
 
 div {
-margin: 0px 110px 0px 110px;
+margin-left: 170px;
+margin-right: 120px;
 }
 
 a {
@@ -57,7 +58,7 @@ font-weight:bold;
     }
 
 .page-content {
-   margin-left: 200px;
+   margin-left: 150px;
 }
 
 
@@ -91,7 +92,8 @@ h2 {
 
   .page-nav ul {
     list-style-type: none;
-    padding-left: 20px;
+    padding-left: 0px;
+	position:absolute;
   }
 
     .page-nav ul li {
