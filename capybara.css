@@ -9,6 +9,10 @@ html, body {
   background-color: white;
 }
 
+div {
+margin: 0px 110px 0px 110px;
+}
+
 a {
 color: #6f717d;
 font-weight:bold;
